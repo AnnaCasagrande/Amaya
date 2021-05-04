@@ -34,7 +34,7 @@ public class Main extends Application{
         Label saluto = new Label("Amaya's Visual Novel. \n");
 
         GridPane.setConstraints(saluto, 0, 3);
-
+        //prova clelia
         TextField inserisciNome = new TextField("Inserisci qui il tuo nome");
         GridPane.setConstraints(inserisciNome, 0, 12);
 
