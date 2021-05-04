@@ -25,7 +25,7 @@ public class Main extends Application{
 
         finestra1 = primaryStage;
         finestra1.setTitle("Le scelte di Amaya");
-
+        // prova
         GridPane grid = new GridPane();
         grid.setPadding(new Insets(10, 10,10, 10));
         grid.setVgap(10);
