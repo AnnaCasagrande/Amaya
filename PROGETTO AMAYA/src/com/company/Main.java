@@ -1,5 +1,4 @@
 package com.company;
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -34,7 +33,7 @@ public class Main extends Application{
         Label saluto = new Label("Amaya's Visual Novel. \n");
 
         GridPane.setConstraints(saluto, 0, 3);
-        //prova clelia
+
         TextField inserisciNome = new TextField("Inserisci qui il tuo nome");
         GridPane.setConstraints(inserisciNome, 0, 12);
 
@@ -62,7 +61,6 @@ public class Main extends Application{
         finestra1.show();
     }
 }
-
 
 
 

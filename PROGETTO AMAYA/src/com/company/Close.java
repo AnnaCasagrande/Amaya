@@ -1,5 +1,4 @@
 package com.company;
-
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
@@ -10,6 +9,8 @@ import javafx.scene.control.Button;
 
 public class Close {
     public static boolean answer;
+
+
 
     //chiusura con X
     public void closeX(Stage finestra1){
